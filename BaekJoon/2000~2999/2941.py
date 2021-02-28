@@ -1,0 +1,11 @@
+string = input()
+result = 0
+result += string.count('c=')
+result += string.count('c-')
+result += string.count('dz=')
+result += string.count('d-')
+result += string.count('lj')
+result += string.count('nj')
+result += string.count('s=')
+result += string.count('z=')
+print(len(string)-result)

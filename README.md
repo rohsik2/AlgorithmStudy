@@ -12,11 +12,17 @@ Thank to JJuOn
 - BFS
 - DFS
 - DP
+- Topological sort
 - Segment Tree
 - Euler pi
 - Divde and Conquer
+- Network Flow
+  - Binary Matching
+- Least Common Ancestor
+- Strongly Connected Component
+- KMP
+- Minimum Spanning Tree
 
 ## 공부해야할 알고리즘
 - Segment Tree with Lazy Evaluation
-- Network Flow
 - Binary matching

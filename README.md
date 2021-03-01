@@ -6,6 +6,7 @@ Thank to JJuOn
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=rohsikdak)](https://www.acmicpc.net/user/rohsikdak)
 
+[solved.ac 링크](https://solved.ac/profile/rohsikdak)
 
 ## 사용 가능한 알고리즘
 - BFS

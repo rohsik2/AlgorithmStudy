@@ -25,4 +25,3 @@ Thank to JJuOn
 
 ## 공부해야할 알고리즘
 - Segment Tree with Lazy Evaluation
-- Binary matching

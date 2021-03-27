@@ -17,7 +17,7 @@ int get_board2(int i, int j){
         return 0;
     if (board2[i][j] != -1)
         return board2[i][j];
-    
+
     return board2[i][j] = get_board2(i+1, j+1)+1;
 }
 
@@ -28,7 +28,7 @@ int get_board3(int i, int j){
         return 0;
     if (board3[i][j] != -1)
         return board3[i][j];
-    
+
     return board3[i][j] = get_board3(i+1, j-1)+1;
 }
 
@@ -54,7 +54,7 @@ int main() {
             if (board1[i][j] == 1){
                 int max_len = min(get_board2(i,j), get_board3(i,j));
 
-                for(int k = 0; k < max_len; k++){
+                for(int k = large; k < max_len; k++){
                     int _a = get_board2(i+k, j-k);
                     int _b = get_board3(i+k, j+k);
                     if (_a > k && _b > k){
@@ -63,7 +63,7 @@ int main() {
                     }
                 }
             }
-        }  
+        }
     }
     /*
     cout<<"---------------------\n\n\n";

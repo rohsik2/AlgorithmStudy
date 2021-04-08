@@ -1,8 +1,6 @@
 
 
 # AlgorithmStudy
-Thank to JJuOn
-[How to Get Sources: <https://github.com/JJuOn/baekjoon-crawler>]
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=rohsikdak)](https://www.acmicpc.net/user/rohsikdak)
 
@@ -25,3 +23,9 @@ Thank to JJuOn
 
 ## 공부해야할 알고리즘
 - Segment Tree with Lazy Evaluation
+
+
+
+
+Thank to JJuOn
+[How to Get Sources: <https://github.com/JJuOn/baekjoon-crawler>]
